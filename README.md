@@ -10,11 +10,11 @@
 
 # Fonctionnalités attendues
 Développer un Dashboard web qui : identifie les appels systèmes, les classe par catégorie (fichier, réseau, processus, mémoire, etc.), et les présente de manière conviviale (statistiques, graphiques…).
-Mint System Call Monitor 🛡️
+Mint System Call Monitor 
 
 Projet de Surveillance des Appels Systèmes en Temps Réel Master 1 en Sécurité des Systèmes d’Information
 
-📝 Présentation du Projet
+Présentation du Projet
 
 Ce projet consiste en la conception et la mise en œuvre d'une solution de surveillance des appels systèmes (syscalls) sur Linux Mint. Grâce à la puissance de l'outil eBPF (Extended Berkeley Packet Filter), nous capturons l'activité du noyau (kernel) pour l'analyser et la visualiser via un Dashboard web convivial.
 
